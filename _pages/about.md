@@ -12,4 +12,4 @@ Jindong is currently a Ph.D. student at Academy of Interdisciplinary Studies, th
 
 # News
 
-- \[2024.11\] One paper on cross graph transfer learning is accepted by **KDD 2025**. Congrats to all the collaborators!
+- \[2024.11\] One paper on cross-graph transfer learning is accepted by **KDD 2025**. Congrats to all the collaborators!
