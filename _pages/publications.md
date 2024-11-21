@@ -32,7 +32,7 @@ In Proceedings of the VLDB Endowment **(VLDB'2024)**.
 
 1.  *Semantic-Fused Multi-Granularity Cross-City Traffic Prediction.*  <br>
 Kehua Chen, Yuxuan Liang, **Jindong Han**, Siyuan Feng, Meixin Zhu, Hai Yang<br>
-Transportation Research Part C: Emerging Technologies.
+Transportation Research Part C: Emerging Technologies 2024.
 
 2023
 ====
@@ -42,11 +42,11 @@ In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data
 
 1.  *Kill Two Birds with One Stone: A Multi-View Multi-Adversarial Learning Approach for Joint Air Quality and Weather Prediction.*  <br>
 **Jindong Han**, Hao Liu, Hengshu Zhu, Hui Xiong<br>
-IEEE Transactions on Knowledge and Data Engineering.
+IEEE Transactions on Knowledge and Data Engineering 2023.
 
 1.  *Region-Aware Hierarchical Graph Contrastive Learning for Ride-Hailing Driver Profiling.*  <br>
 Kehua Chen, **Jindong Han**, Siyuan Feng, Meixin Zhu, Hai Yang<br>
-Transportation Research Part C: Emerging Technologies.
+Transportation Research Part C: Emerging Technologies 2024.
 
 2022
 ====
@@ -56,11 +56,11 @@ In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data
 
 1.  *Semi-Supervised Air Quality Forecasting via Self-Supervised Hierarchical Graph Neural Network.*  <br>
 **Jindong Han**, Hao Liu, Haoyi Xiong, Jing Yang<br>
-IEEE Transactions on Knowledge and Data Engineering.
+IEEE Transactions on Knowledge and Data Engineering 2022.
 
 1.  *Unified Route Representation Learning for Multi-Modal Transportation Recommendation with Spatiotemporal Pre-Training.*  <br>
 Hao Liu, **Jindong Han**, Yanjie Fu, Yanyan Li, Kai Chen, Hui Xiong<br>
-The VLDB Journal.
+The VLDB Journal 2022.
 
 2021
 ====
@@ -76,11 +76,11 @@ In Proceedings of the VLDB Endowment **(VLDB'2021)**.
 ====
 1.  *Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation.*  <br>
 Hao Liu, Yongxin Tong, **Jindong Han**, Panpan Zhang, Xinjiang Lu, Hui Xiong<br>
-IEEE Transactions on Knowledge and Data Engineering.
+IEEE Transactions on Knowledge and Data Engineering 2020.
 
 1.  *Adversarial Transfer Learning for Deep Learning Based Automatic Modulation Classification.*  <br>
 Ke Bu, Yuan He, Xiaojun Jing, **Jindong Han**<br>
-IEEE Signal Processing Letters.
+IEEE Signal Processing Letters 2020.
 
 2019
 ====
