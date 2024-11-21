@@ -30,6 +30,10 @@ In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data
 **Jindong Han**, Weijia Zhang, Hao Liu, Tao Tao, Naiqiang Tan, Hui Xiong<br>
 In Proceedings of the VLDB Endowment **(VLDB'2024)**.
 
+1.  *Semantic-Fused Multi-Granularity Cross-City Traffic Prediction.*  <br>
+Kehua Chen, Yuxuan Liang, **Jindong Han**, Siyuan Feng, Meixin Zhu, Hai Yang<br>
+Transportation Research Part C: Emerging Technologies.
+
 2023
 ====
 1.  *iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation.*  <br>
@@ -39,6 +43,10 @@ In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data
 1.  *Kill Two Birds with One Stone: A Multi-View Multi-Adversarial Learning Approach for Joint Air Quality and Weather Prediction.*  <br>
 **Jindong Han**, Hao Liu, Hengshu Zhu, Hui Xiong<br>
 IEEE Transactions on Knowledge and Data Engineering.
+
+1.  *Region-Aware Hierarchical Graph Contrastive Learning for Ride-Hailing Driver Profiling.*  <br>
+Kehua Chen, **Jindong Han**, Siyuan Feng, Meixin Zhu, Hai Yang<br>
+Transportation Research Part C: Emerging Technologies.
 
 2022
 ====
@@ -78,5 +86,5 @@ IEEE Signal Processing Letters.
 ====
 1.  *GraphConvLSTM: Spatiotemporal Learning for Activity Recognition with Wearable Sensors.*  <br>
 **Jindong Han**, Yuan He, Juan Liu, Qianqian Zhang, Xiaojun Jing<br>
-IEEE Signal Processing Letters.
+IEEE Global Communications Conference **(Globecom'2019)**.
 
