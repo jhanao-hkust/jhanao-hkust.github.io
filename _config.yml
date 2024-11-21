@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuoning Guo"
+title                    : "Jindong Han"
 title_separator          : "-"
-name                     : &name "Zhuoning Guo"
-description              : &description "PhD student at HKUST(GZ)"
-url                      : https://gzn00417.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jindong Han"
+description              : &description "Ph.D. Student at HKUST"
+url                      : https://jhanao-hkust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gzn00417/gzn00417.github.io"
+repository               : "jhanao-hkust.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuoning Guo 郭茁宁"
+  name             : "Jindong Han"
   avatar           : "profile.png"
-  bio              : "2nd-Year PhD @HKUST(GZ) & HKUST | Research Intern @MSRA & @Baidu | BE @HIT 22' | OIer"
-  location         : "Quanzhou, Fujian, China"
+  bio              : "Ph.D. Student @ HKUST"
+  location         : "Jining, Shandong, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=jBd64WgAAAAJ&hl=en"
-  email            : "zhuoning.guo@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Zhuoning-Guo"
+  googlescholar    : "https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=zh-CN"
+  email            : "jhanao@connect.ust.hk"
+  researchgate     : "https://www.researchgate.net/profile/Jindong-Han"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gzn00417"
+  github           : "jhanao-hkust"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhuoning-guo"
+  linkedin         : #
   orcid            :
   pinterest        :
   soundcloud       :
