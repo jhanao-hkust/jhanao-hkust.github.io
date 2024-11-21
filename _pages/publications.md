@@ -6,14 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-2025
-====
+
 1.  *GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning.*  <br>
 Zhe-Rui Yang, **Jindong Han**, Chang-Dong Wang, Hao Liu.<br>
 In Proceedings of the 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD'25)**.
 
-2024
-====
 1.  *Urban Foundation Models: A Survey.*  <br>
 Weijia Zhang, **Jindong Han**, Zhao Xu, Hang Ni, Hao Liu, Hui Xiong.<br>
 In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD'24)**.
@@ -34,8 +31,6 @@ In Proceedings of the VLDB Endowment **(VLDB'24)**.
 Kehua Chen, Yuxuan Liang, **Jindong Han**, Siyuan Feng, Meixin Zhu, Hai Yang.<br>
 Transportation Research Part C: Emerging Technologies 2024.
 
-2023
-====
 1.  *iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation.*  <br>
 **Jindong Han**, Hao Liu, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong.<br>
 In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD'23)**.
@@ -48,8 +43,6 @@ IEEE Transactions on Knowledge and Data Engineering 2023.
 Kehua Chen, **Jindong Han**, Siyuan Feng, Meixin Zhu, Hai Yang.<br>
 Transportation Research Part C: Emerging Technologies 2024.
 
-2022
-====
 1.  *Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing.*  <br>
 Weijia Zhang, Hao Liu, **Jindong Han**, Yong Ge, Hui Xiong.<br>
 In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD'22)**.
@@ -62,8 +55,6 @@ IEEE Transactions on Knowledge and Data Engineering 2022.
 Hao Liu, **Jindong Han**, Yanjie Fu, Yanyan Li, Kai Chen, Hui Xiong.<br>
 The VLDB Journal 2022.
 
-2021
-====
 1.  *Joint Air Quality and Weather Prediction Based on Multi-Adversarial Spatiotemporal Networks.*  <br>
 **Jindong Han**, Hao Liu, Hengshu Zhu, Hui Xiong, Dejing Dou.<br>
 In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence **(AAAI'21)**.
@@ -72,8 +63,6 @@ In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence **
 Hao Liu, **Jindong Han**, Yanjie Fu, Jingbo Zhou, Xinjiang Lu, Hui Xiong.<br>
 In Proceedings of the VLDB Endowment **(VLDB'21)**.
 
-2020
-====
 1.  *Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation.*  <br>
 Hao Liu, Yongxin Tong, **Jindong Han**, Panpan Zhang, Xinjiang Lu, Hui Xiong.<br>
 IEEE Transactions on Knowledge and Data Engineering 2020.
@@ -82,8 +71,6 @@ IEEE Transactions on Knowledge and Data Engineering 2020.
 Ke Bu, Yuan He, Xiaojun Jing, **Jindong Han**.<br>
 IEEE Signal Processing Letters 2020.
 
-2019
-====
 1.  *GraphConvLSTM: Spatiotemporal Learning for Activity Recognition with Wearable Sensors.*  <br>
 **Jindong Han**, Yuan He, Juan Liu, Qianqian Zhang, Xiaojun Jing.<br>
 IEEE Global Communications Conference **(Globecom'19)**.
