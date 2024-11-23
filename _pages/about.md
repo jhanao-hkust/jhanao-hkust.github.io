@@ -29,7 +29,3 @@ Jindong is currently a Ph.D. student at Academy of Interdisciplinary Studies, th
 * IEEE Transactions on Big Data (TBD)
 * ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 * Geophysical Research Letters
-
----
-
-<a href="https://info.flagcounter.com/PELK"><img src="https://s11.flagcounter.com/map/PELK/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
