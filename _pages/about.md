@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/). My general research interests include data mining and machine learning, with a focus on developing scalable and generalizable machine learning solutions for large-scale smart city services. His research works have been powering several billion-scale applications in DiDi Chuxing and Baidu. He also serves as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, AAAI, AISTATS, IMWUT, IEEE TKDE, and IEEE TBD. Some of the honors Jindong has won include HKUST AIS best research award, VLDB best paper nomination award, first place of KDD Cup 2018, etc.
+I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/). My general research interests lie in data mining and applied machine learning, with a focus on developing strong foundation models for large-scale smart city services and scientific computing applications. I have published prolifically in refereed journals and conference proceedings, such as TKDE, VLDBJ, KDD, VLDB, and AAAI. My research works have powered several billion-scale industrial applications in DiDi Chuxing and Baidu maps. I also serve as the program committee members or reviewers for conferences and journals like ICLR, NeurIPS, KDD, WWW, AAAI, AISTATS, IMWUT, TKDE, and TBD. I received several awards including HKUST AIS best research award, VLDB best paper nomination award, first place of KDD Cup 2018, etc.
+
+# News
 
 # News
 
