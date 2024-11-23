@@ -15,7 +15,7 @@ I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https:/
 - \[11/2024\] One paper on cross-graph transfer learning was accepted by **KDD 2025**. Congrats to all my coauthors!
 
 # Services
-**PC member**
+**Program Committee Member**
 * International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
 * International Conference on Learning Representations (ICLR), 2025
 * ACM International World Wide Web Conference (WWW), 2025
@@ -24,7 +24,7 @@ I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https:/
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024, 2025
 * The AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024, 2025
 
-**Journal reviewer**
+**Journal Reviewer**
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Big Data (TBD)
 * ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
