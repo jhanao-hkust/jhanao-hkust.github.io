@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jindong is currently a Ph.D. student at Academy of Interdisciplinary Studies, the Hong Kong University of Science and Technology. His general research interests include data mining and machine learning, with a focus on developing scalable and generalizable machine learning solutions for large-scale smart city services. He has published over 20 papers in leading machine learning and data mining journals (e.g., TKDE, VLDBJ) and conferences (e.g., KDD, VLDB, AAAI). His research works have been powering several billion-scale applications in DiDi Chuxing and Baidu. He also serves as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, AAAI, AISTATS, IMWUT, IEEE TKDE, and IEEE TBD. Some of the honors Jindong has won include HKUST AIS best research award, VLDB best paper nomination award, first place of KDD Cup 2018, etc.
+I am currently a Ph.D. student at Academy of Interdisciplinary Studies, the Hong Kong University of Science and Technology. My general research interests include data mining and machine learning, with a focus on developing scalable and generalizable machine learning solutions for large-scale smart city services. His research works have been powering several billion-scale applications in DiDi Chuxing and Baidu. He also serves as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, AAAI, AISTATS, IMWUT, IEEE TKDE, and IEEE TBD. Some of the honors Jindong has won include HKUST AIS best research award, VLDB best paper nomination award, first place of KDD Cup 2018, etc.
 
 # News
 
