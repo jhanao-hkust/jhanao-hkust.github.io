@@ -29,7 +29,7 @@ VLDB 2024
 
 1.  *Semantic-Fused Multi-Granularity Cross-City Traffic Prediction*  <br>
 Kehua Chen, Yuxuan Liang, **Jindong Han**, Siyuan Feng, Meixin Zhu, Hai Yang<br>
-TRC 2024
+Transportation Research Part C: Emerging Technologies 2024
 
 1.  *iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation*  <br>
 **Jindong Han**, Hao Liu, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong<br>
@@ -41,7 +41,7 @@ TKDE 2023
 
 1.  *Region-Aware Hierarchical Graph Contrastive Learning for Ride-Hailing Driver Profiling*  <br>
 Kehua Chen, **Jindong Han**, Siyuan Feng, Meixin Zhu, Hai Yang<br>
-TRC 2023
+Transportation Research Part C: Emerging Technologies 2023
 
 1.  *Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing*  <br>
 Weijia Zhang, Hao Liu, **Jindong Han**, Yong Ge, Hui Xiong<br>
@@ -69,7 +69,7 @@ TKDE 2020
 
 1.  *Adversarial Transfer Learning for Deep Learning Based Automatic Modulation Classification*  <br>
 Ke Bu, Yuan He, Xiaojun Jing, **Jindong Han**<br>
-SPL 2020
+IEEE Signal Processing Letters 2020
 
 1.  *GraphConvLSTM: Spatiotemporal Learning for Activity Recognition with Wearable Sensors*  <br>
 **Jindong Han**, Yuan He, Juan Liu, Qianqian Zhang, Xiaojun Jing<br>
