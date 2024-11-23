@@ -12,7 +12,7 @@ I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https:/
 
 # Research Interests
 * Spatio-Temporal Data Mining: Spatio-Temporal Predictive Learning, Time Series Analysis
-* Urban Foundation Models, e.g., Urban Multi-Modal Fusion, City Agents, World Simulation
+* Urban Foundation Models, e.g., Urban Multi-Modal Models, City Agents, World Simulation
 * AI for Science, e.g., Earth System Modeling, Physics-Informed Machine Learning
 
 # News
