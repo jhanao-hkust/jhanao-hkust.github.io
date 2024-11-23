@@ -45,7 +45,7 @@ Kehua Chen, **Jindong Han**, Siyuan Feng, Meixin Zhu, Hai Yang<br>
 
 1. **Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing**  <br>
 Weijia Zhang, Hao Liu, **Jindong Han**, Yong Ge, Hui Xiong<br>
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**)*, KDD 2022
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2022
 
 1. **Semi-Supervised Air Quality Forecasting via Self-Supervised Hierarchical Graph Neural Network**  <br>
 **Jindong Han**, Hao Liu, Haoyi Xiong, Jing Yang<br>
