@@ -20,5 +20,5 @@ I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https:/
 - \[11/2024\] One paper on cross-graph transfer learning was accepted by **KDD 2025**. Congrats to all my coauthors!
 
 # Services
-* Program committee member: KDD, WWW, WWW Web4Good Track, NeurIPS, ICLR, AISTATS, AAAI
+* Program committee member: KDD, WWW, WWW (Web4Good Track), NeurIPS, ICLR, AISTATS, AAAI
 * Journal reviewer: TKDE, TBD, and IMWUT
