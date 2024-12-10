@@ -6,6 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
+1. **Erase then Rectify: A Training-Free Parameter Editing Approach for Cost-Effective Graph Unlearning**  <br>
+Zhe-Rui Yang, **Jindong Han**, Chang-Dong Wang, Hao Liu<br>
+*Thirty-Ninth AAAI Conference on Artificial Intelligence (**AAAI**)*, 2025
 
 1. **GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**  <br>
 Zhe-Rui Yang, **Jindong Han**, Chang-Dong Wang, Hao Liu<br>
