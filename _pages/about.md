@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/). My general research interests lie in spatio-temporal data mining and applied machine learning, with a focus on developing theoretically grounded and practically effective algorithms for smart city and scientific computing applications. I am committed to creating more intelligent and sustainable cities with AI-powered technologies.
+I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/). My general research interests lie in spatio-temporal data mining and applied machine learning, with a focus on developing accurate, efficient, and generalizable algorithms for large-scale smart city and scientific computing applications. I am committed to creating more intelligent and sustainable cities with AI-powered technologies.
 
 I have published over 20 papers in refereed journals and conference proceedings, such as TKDE, VLDBJ, KDD, VLDB, and AAAI. My research has powered several billion-scale online services at DiDi Chuxing and Baidu Maps. I also serve as the program committee member or reviewer for leading conferences and journals, such as KDD, ICLR, NeurIPS, ICML, and TKDE. I received several awards including HKUST AIS Best Research Award, VLDB Best Research Paper Nomination, and first place in KDD Cup 2018.
 
