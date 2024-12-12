@@ -33,4 +33,4 @@ I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https:/
 **Journal Reviewer**
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Big Data (TBD)
-* Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+* The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
