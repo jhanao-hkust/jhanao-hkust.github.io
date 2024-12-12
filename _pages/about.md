@@ -13,7 +13,7 @@ I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https:/
 I have published over 20 papers in refereed journals and conference proceedings, such as TKDE, VLDBJ, KDD, VLDB, and AAAI. My research has powered several billion-scale online services at DiDi Chuxing and Baidu Maps. I also serve as the program committee member or reviewer for leading conferences and journals, such as KDD, ICLR, NeurIPS, ICML, and TKDE. I received several awards including HKUST AIS Best Research Award, VLDB Best Research Paper Nomination, and first place in KDD Cup 2018.
 
 # Research Interests
-My current research interest lie in the following aspects:
+My current research interests lie in the following aspects:
 * Fundamental algorithms: data-centric AI, efficient deep learning, physics-informed learning
 * Urban intelligence: urban foundation models, generative city agents
 * AI for science: climate modeling and prediction
