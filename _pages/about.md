@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/). My research interests lie in data-centric AI, efficient machine learning and their applications in smart cities and scientific computing. I have published prolifically in refereed journals and conference proceedings, such as TKDE, VLDBJ, KDD, VLDB, and AAAI. My research has contributed to supporting several billion-scale online services at DiDi Chuxing and Baidu Maps. I also serve as the program committee member or reviewer for leading conferences and journals, such as KDD, ICLR, NeurIPS, ICML, and TKDE. I received several awards including HKUST AIS Best Research Award, VLDB Best Paper Nomination Award, and first place in KDD Cup 2018.
+I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/). My research interests focus on data-centric AI, efficient machine learning and their applications in smart cities and scientific computing. I have published prolifically in refereed journals and conference proceedings, such as TKDE, VLDBJ, KDD, VLDB, and AAAI. My research has contributed to supporting several billion-scale online services at DiDi Chuxing and Baidu Maps. I also serve as the program committee member or reviewer for leading conferences and journals, such as KDD, ICLR, NeurIPS, ICML, and TKDE. I received several awards including HKUST AIS Best Research Award, VLDB Best Paper Nomination Award, and first place in KDD Cup 2018.
 
 # Research Interests
 * Data Mining, e.g., spatio-temporal data mining, time series analysis
