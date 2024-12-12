@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/). My research interests lie in data mining and machine learning, with a focus on developing scalable and generalizable algorithms to address real-world challenges and drive innovations in smart cities and scientific computing. 
+I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/). My general research interests lie in data mining and machine learning, with a focus on developing scalable and generalizable algorithms to address real-world challenges and drive innovations in smart cities (e.g., intelligent transportation) and scientific computing (e.g., earth system modeling). 
 
 I have published over 20 papers in refereed journals and conference proceedings, such as TKDE, VLDBJ, KDD, VLDB, and AAAI. My research has powered several billion-scale online services at DiDi Chuxing and Baidu Maps. I also serve as the program committee member or reviewer for leading conferences and journals, such as KDD, ICLR, NeurIPS, ICML, and TKDE. I received several awards including HKUST AIS Best Research Award, VLDB Best Research Paper Nomination, and first place in KDD Cup 2018.
 
