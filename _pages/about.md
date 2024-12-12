@@ -12,7 +12,7 @@ I am currently a Ph.D. student at [Academy of Interdisciplinary Studies](https:/
 
 # Research Interests
 * Urban computing, e.g., intelligent transportation, urban foundation models, city agents
-* AI for science, e.g., earth system models, physics-informed learning
+* AI for science, e.g., earth system models, neural solver, physics-informed learning
 * Data-centric AI and efficient learning algorithms, e.g., instance selection, approximate algorithms, and efficient architectures
 
 # News
