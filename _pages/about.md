@@ -14,7 +14,7 @@ I have published over 20 papers in refereed journals and conference proceedings,
 
 # Research Interests
 * Spatio-temporal data mining, e.g., time series analysis, emerging urban computing applications
-* AI for science, e.g., climate modeling and prediction
+* AI for science, e.g., climate modeling and prediction, earth foundation models
 * Fundamental learning algorithms, e.g., data-centric AI, efficient deep learning
 
 # News
