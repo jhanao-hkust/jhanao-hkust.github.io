@@ -16,7 +16,7 @@ I have published over 20 papers in refereed journals and conference proceedings,
 My current research focuses on the following three aspects:
 * Fundamental algorithms: data-centric AI, efficient deep learning, physics-informed neural networks
 * Urban intelligence: urban foundation models, generative city agents
-* AI for science: climate modeling and prediction.
+* AI for science: climate modeling and prediction
 
 # News
 
