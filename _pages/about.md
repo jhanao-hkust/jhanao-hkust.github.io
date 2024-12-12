@@ -15,8 +15,8 @@ I have published over 20 papers in refereed journals and conference proceedings,
 # Research Interests
 My current research focuses on the following three aspects:
 * Urban intelligence: urban foundation models, generative city agents
-* AI for science: climate modeling and prediction, earth foundation models
-* Fundamental algorithms: data-centric AI, efficient deep learning
+* AI for science: climate modeling and prediction
+* Fundamental algorithms: data-centric AI, efficient deep learning, physics-informed learning
 
 # News
 
