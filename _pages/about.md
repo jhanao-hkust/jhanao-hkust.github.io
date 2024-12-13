@@ -21,7 +21,7 @@ My current research interests lie in the following aspects:
 # News
 
 - \[12/2024\] One paper on graph unlearning was accepted by **AAAI 2025**.
-- \[11/2024\] One paper on cross-graph transfer learning was accepted by **KDD 2025**.
+- \[11/2024\] One paper on graph transfer learning was accepted by **KDD 2025**.
 
 # Services
 **Program Committee Member**
