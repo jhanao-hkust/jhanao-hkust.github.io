@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology (HKUST). I am passionate about developing machine learning methods to solve important problems in smart cities and scientific computing. The goal of my research is to create strong foundation models from big data that enable intelligent and sustainable cities.
-
-# Research Interests
-My current research interests lie in the following aspects:
-* Fundamental algorithms: data-centric AI, efficient deep learning, physics-informed learning
-* Urban intelligence: urban foundation models, generative city agents
-* AI for science: climate modeling and prediction
+I am currently a Ph.D. student (from fall, 2021) at Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology (HKUST), advised by Prof. Hao Liu and Prof. Hui Xiong. My general research areas include data mining and applied machine learning, with a focus on spatio-temporal modeling and data-centric AI for addressing real-world problems in smart cities and scientific computing. The long-term goal of my research is to create strong foundation models from big data that enable intelligent and sustainable cities.
 
 # News
 
