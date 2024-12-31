@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology (HKUST). My research interests lie in data mining and applied machine learning, especially spatio-temporal modeling and PDE solving. The long-term goal of my research is to create strong foundation models from big data that enable intelligent and sustainable cities.
+I am currently a Ph.D. student at Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology (HKUST). I am passionate about developing machine learning methods to solve important problems in smart cities and scientific computing. The goal of my research is to create strong foundation models from big data that enable intelligent and sustainable cities.
 
 # Research Interests
 My current research interests lie in the following aspects:
