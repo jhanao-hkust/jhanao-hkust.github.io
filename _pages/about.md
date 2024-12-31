@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology (HKUST).
-
-My general areas of research are spatio-temporal data mining and applied machine learning, with a focus on developing accurate, scalable, and generalizable algorithms to tackle complex real-world urban challenges, such as traffic congestion, energy consumption, and environmental sustainability. The long-term goal of my research is to create strong AI models from big data that enable intelligent and sustainable cities.
+I am currently a Ph.D. student at Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology (HKUST). My research interests lie in data mining and applied machine learning, especially spatio-temporal modeling and PDE solving. The long-term goal of my research is to create strong foundation models from big data that enable intelligent and sustainable cities.
 
 # Research Interests
 My current research interests lie in the following aspects:
@@ -20,6 +18,7 @@ My current research interests lie in the following aspects:
 
 # News
 
+- \[12/2024\] I successfully passed my PhD defense. Thanks to my advisors and all committee members for their invaluable support and guidance!
 - \[12/2024\] One paper on graph unlearning was accepted by **AAAI 2025**.
 - \[11/2024\] One paper on graph transfer learning was accepted by **KDD 2025**.
 
