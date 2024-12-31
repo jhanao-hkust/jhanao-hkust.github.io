@@ -26,7 +26,7 @@ My current research interests lie in the following aspects:
 - \[11/2024\] One paper on graph transfer learning was accepted by **KDD 2025**.
 
 # Honors and Awards
-* HKUST AIS Best Research Award, 2024
+* AIS Best Research Award, HKUST, 2024
 * Best Research Paper Nomination, VLDB 2024
 * First Place, KDD Cup 2018
 
