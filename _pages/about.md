@@ -12,8 +12,6 @@ I am currently a Ph.D. student at Academy of Interdisciplinary Studies, Hong Kon
 
 My general areas of research are spatio-temporal data mining and applied machine learning, with a focus on developing accurate, scalable, and generalizable algorithms to tackle complex real-world urban challenges, such as traffic congestion, energy consumption, and environmental sustainability. The long-term goal of my research is to create strong AI models from big data that enable intelligent and sustainable cities.
 
-I have published over 20 papers in refereed journals and conference proceedings, such as TKDE, VLDBJ, KDD, VLDB, and AAAI. My research has powered several billion-scale online services at DiDi Chuxing and Baidu Maps. I also serve as the program committee member or reviewer for leading conferences and journals, such as KDD, WWW, NeurIPS, ICLR, ICML, and TKDE. I received several awards including HKUST AIS Best Research Award, VLDB Best Research Paper Nomination, and first place in KDD Cup 2018.
-
 # Research Interests
 My current research interests lie in the following aspects:
 * Fundamental algorithms: data-centric AI, efficient deep learning, physics-informed learning
