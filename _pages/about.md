@@ -20,7 +20,7 @@ My current research interests lie in the following aspects:
 
 # News
 
-- \[12/2024\] I successfully passed my PhD defense. Thanks to my advisors and all committee members for their invaluable guidance and support throughout this journey!
+- \[12/2024\] I successfully passed my PhD defense. Thanks to my advisors and all committee members for their invaluable guidance and support!
 - \[12/2024\] One paper on graph unlearning was accepted by **AAAI 2025**.
 - \[11/2024\] One paper on graph transfer learning was accepted by **KDD 2025**.
 
