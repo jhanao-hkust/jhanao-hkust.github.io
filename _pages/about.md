@@ -17,7 +17,7 @@ I am currently a Ph.D. student (from fall, 2021) at Academy of Interdisciplinary
 - 📢 **2024/11** -- One paper on graph transfer learning was accepted by **KDD 2025**.
 
 ## Honors and Awards
-* AIS Best Research Award, HKUST, 2024
+* First Prize of AIS Best Research Award, HKUST, 2024
 * Best Research Paper Nomination, VLDB 2024
 * First Place, KDD Cup 2018
 
