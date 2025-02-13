@@ -12,9 +12,9 @@ I am currently a Ph.D. student (from fall, 2021) at Academy of Interdisciplinary
 
 # News
 
-- \[12/2024\] I successfully passed my PhD defense. Thanks to my advisors and all committee members for their invaluable support and guidance!
-- \[12/2024\] One paper on graph unlearning was accepted by **AAAI 2025**.
-- \[11/2024\] One paper on graph transfer learning was accepted by **KDD 2025**.
+- 📢 **2024/12** -- I successfully passed my PhD defense. Thanks to my advisors and all committee members for their invaluable support and guidance!
+- 📢 **2024/12** -- One paper on graph unlearning was accepted by **AAAI 2025**.
+- 📢 **2024/11** -- One paper on graph transfer learning was accepted by **KDD 2025**.
 
 # Honors and Awards
 * AIS Best Research Award, HKUST, 2024
