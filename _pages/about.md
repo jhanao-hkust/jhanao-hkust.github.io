@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About Me"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a Ph.D. student (from fall, 2021) at Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Hao Liu and Prof. Hui Xiong. My general research areas include data mining and machine learning, with a focus on large-scale spatio-temporal modeling for solving important problems in smart cities and earth science. The long-term goal of my research is to create strong foundation models from big data that enable the development of intelligent and sustainable cities.
+I am currently a Ph.D. student (from fall, 2021) at Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Hao Liu and Prof. Hui Xiong. My general research areas include data mining and machine learning, with a focus on large-scale spatio-temporal modeling for solving important problems in smart cities and earth science. The long-term goal of my research is to build AGI in the physical world.
 
 # News
 
