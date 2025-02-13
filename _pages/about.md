@@ -33,5 +33,6 @@ I am currently a Ph.D. student (from fall, 2021) at Academy of Interdisciplinary
 
 - **Journal Reviewer**
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Big Data (TBD)
   - The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
