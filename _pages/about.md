@@ -22,7 +22,7 @@ I am currently a Ph.D. student (from fall, 2021) at Academy of Interdisciplinary
 * First Place, KDD Cup 2018
 
 ## Services
-- **Program Committee Member**
+**Program Committee Member**
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024, 2025
   - ACM International World Wide Web Conference (WWW) 2025
   - Neural Information Processing Systems (NeurIPS) 2024
@@ -31,7 +31,7 @@ I am currently a Ph.D. student (from fall, 2021) at Academy of Interdisciplinary
   - The AAAI Conference on Artificial Intelligence (AAAI) 2023, 2024, 2025
   - International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
 
-- **Journal Reviewer**
+**Journal Reviewer**
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Big Data (TBD)
