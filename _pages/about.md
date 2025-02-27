@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student (since Fall 2021) at the Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology (HKUST), advised by Prof. Hao Liu and Prof. Hui Xiong. My general research areas include data science and artificial intelligence, with a particular focus on spatio-temporal modeling, physical-world simulation, and scientific machine learning. The goal of my research is to develop cutting-edge AI models that can understand and model the dynamic, ever-evolving world, with applications spanning all scales, from individual human activities to smart cities, and further to the global Earth system.
+I am currently a Ph.D. student (since Fall 2021) at the Academy of Interdisciplinary Studies, Hong Kong University of Science and Technology (HKUST), advised by Prof. Hao Liu and Prof. Hui Xiong. My general research areas include data science and artificial intelligence, with a particular focus on spatio-temporal modeling, physical-world simulation, and scientific machine learning. The goal of my research is to develop cutting-edge AI models that can understand and model the dynamic, ever-evolving world, with applications spanning all scales, from individual activities to smart cities, and further to the global Earth system.
 
 ## Recent News
 
